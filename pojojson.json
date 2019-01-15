@@ -1,0 +1,22 @@
+{
+    "class":{
+
+        "name" : "MyClass",
+        "attributes" : {
+            "userid" :{
+                "type":"String"
+               
+            },
+            "fname" : {
+                "type" :"String",
+                "modifier":"private"
+            }
+
+        }
+
+
+        
+        
+    }
+
+}
